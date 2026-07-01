@@ -1,0 +1,13 @@
+yfinance
+requests
+pandas
+transformers
+torch
+sentence-transformers
+chromadb
+umap-learn
+streamlit
+matplotlib
+plotly
+sqlalchemy
+python-dotenv
